@@ -1,0 +1,3 @@
+# Welcome to the *intertextor* project!
+
+**TODO**: weitere Infos und Links...
