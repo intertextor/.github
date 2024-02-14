@@ -1,0 +1,2 @@
+# .github
+intertextor organization README
