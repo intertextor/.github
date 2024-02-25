@@ -19,7 +19,7 @@ TODO
 ## Intertextuality basics
 
 - **[Ontology][gh-io]**: This repository forms the background of
-  - a forthcoming DHQ article by Jan Horstmann, Christian Lück, and Immanuel Normann (University of Münster) on "Systems of Intertextuality. Towards a formalization of text relations for manual annotation and automated reasoning" and
+  - a DHQ article: Jan Horstmann, Christian Lück, and Immanuel Normann (2023): "Systems of Intertextuality. Towards a formalization of text relations for manual annotation and automated reasoning", in Digital Humanities Quaterly 17:3, http://www.digitalhumanities.org/dhq/vol/17/3/000731/000731.html and
   - a talk: Jan Horstmann, Christian Lück und Immanuel Normann (2023): „Textliche Relationen maschinenlesbar formalisieren: Systeme der Intertextualität“, in: Peer Trilcke und Anna Busch (Hg.): DHd 2023 Open Humanities Open Culture. 9. Tagung des Verbands "Digital Humanities im deutschsprachigen Raum", Trier, Luxemburg. DOI: https://doi.org/10.5281/zenodo.7715368.
 - TODO
 
