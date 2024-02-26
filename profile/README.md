@@ -2,13 +2,13 @@
 
 *Intertextor* will be a tool for the manual annotation and analysis of intertextuality as a network. It builds on extensive preliminary work, in the course of which various theories of intertextuality have been examined and formalized with regard to their common conceptual core (see **[Ontology][gh-io]**). This formalization and modelling was presented at the DHd 2023 conference. A poster provides a first insight into how aspects of visualization and user experience are progressively taken into account in tool development on this basis. The focus is on considerations regarding four different zoom levels of texts that can be combined in different ways to visualize intertextuality as a network. These combinations enable different praxeological and methodological approaches to intertextuality: from structural to detailed close reading, from global networks to synoptic parallelization of individual texts. As a generic tool, *Intertextor* aims to cover as many different workflows and academic use cases as possible in the wider field of intertextual analysis. The research community is invited to participate in the tool, be it in the formulation of further use cases or in technical development.
 
-## DHd 2024 contributions (German DH conference)
+## [DHD 2024 contributions][gh-dhd24] (German DH conference)
 
 > **Poster abstract**
 >
 > Das Poster stellt den Entwurf eines neuen Werkzeugs zur manuellen Erfassung und Erforschung von Intertextualität als Netzwerk vor. Dabei schließt es an umfangreiche Vorarbeiten an, in deren Zug verschieden ausgeprägte Intertextualitätstheorien auf ihren gemeinsamen konzeptionellen Kern hin untersucht und formalisiert worden sind. Diese Formalisierung und Modellierung wurde auf der DHd 2023 präsentiert. Das Poster gewährt einen Einblick, wie auf dieser Grundlage fortschreitend Aspekte der Visualisierung und User-Experience bei der Toolentwicklung berücksichtigt werden. Im Zentrum stehen Überlegungen zu 4 verschiedenen Zoomstufen von Texten, die zur Visualisierung von Intertextualität als Netzwerk auf unterschiedliche Weise miteinander kombiniert werden können. Diese Kombinationen ermöglichen jeweils andere praxeologische wie methodische Zugänge zu Intertextualität: von strukturalen bis zum detaillierten Close-Reading, vom globalen Netzwerk bis zur synoptischen Parallelisierung einzelner Texte. Das Poster lädt die Community ein, sich am Tool zu beteiligen, sei es bei der Formulierung von Anforderung oder bei der technischen Entwicklung.
 
-**&rarr; [GitHub repository dhd-2024][gh-dhd24]**
+**&rarr; [Learn more...][gh-dhd24]**
 
 [gh-dhd24]: https://github.com/intertextor/dhd-2024
 
