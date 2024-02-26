@@ -12,9 +12,9 @@
 
 [gh-dhd24]: https://github.com/intertextor/dhd-2024
 
-### Video demonstration
+## Video demonstrations
 
-TODO
+<a href="https://www.youtube.com/watch?v=Bwkl1u2X2Pc"><img src="https://raw.githubusercontent.com/intertextor/dhd-2024/main/media/thumbnail_english.jpg" alt="YouTube demo english" width="300"></a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=uo5HP5FQBcY"><img src="https://raw.githubusercontent.com/intertextor/dhd-2024/main/media/thumbnail_german.jpg" alt="YouTube demo english" width="300"></a>
 
 ## Intertextuality basics
 
