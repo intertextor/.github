@@ -2,6 +2,9 @@
 
 *Intertextor* will be a tool for the manual annotation and analysis of intertextuality as a network. It builds on extensive preliminary work, in the course of which various theories of intertextuality have been examined and formalized with regard to their common conceptual core (see **[Ontology][gh-io]**). This formalization and modelling was presented at the DHd 2023 conference. A poster provides a first insight into how aspects of visualization and user experience are progressively taken into account in tool development on this basis. The focus is on considerations regarding four different zoom levels of texts that can be combined in different ways to visualize intertextuality as a network. These combinations enable different praxeological and methodological approaches to intertextuality: from structural to detailed close reading, from global networks to synoptic parallelization of individual texts. As a generic tool, *Intertextor* aims to cover as many different workflows and academic use cases as possible in the wider field of intertextual analysis. The research community is invited to participate in the tool, be it in the formulation of further use cases or in technical development.
 
+## How to contribute
+We want to develop *Intertextor* collaboratively. Taking part in conceptual discussions, co-developping individual modules, supporting the team with user stories and usage scenarios, ... many things are possible. Follow this github organization or write an email to scdh@uni-muenster.de if you want to contribute in one or another way. We are happy to cooperate with you.
+
 ## [DHD 2024 contributions][gh-dhd24] (German DH conference)
 
 Jan Horstmann, Christian Lück, Immanuel Normann & Jan-Erik Stange (2024): InterAnnotator: Interfaces für die Annotation intertextueller Relationen. DHd 2024 Quo Vadis DH (DHd2024), Passau, Deutschland. Zenodo. (DOI [10.5281/zenodo.10698495][poster-zenodo]).
