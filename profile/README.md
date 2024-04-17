@@ -7,7 +7,7 @@ We want to develop *Intertextor* collaboratively. Taking part in conceptual disc
 
 ## [DHD 2024 contributions][gh-dhd24] (German DH conference)
 
-Jan Horstmann, Christian Lück, Immanuel Normann & Jan-Erik Stange (2024): InterAnnotator: Interfaces für die Annotation intertextueller Relationen. DHd 2024 Quo Vadis DH (DHd2024), Passau, Deutschland. Zenodo. (DOI [10.5281/zenodo.10698495][poster-zenodo]).
+Jan Horstmann, Christian Lück, Immanuel Normann & Jan-Erik Stange (2024): Intertextor: Interfaces für die Annotation intertextueller Relationen. DHd 2024 Quo Vadis DH (DHd2024), Passau, Deutschland. Zenodo. (DOI [10.5281/zenodo.10698495][poster-zenodo]).
 
 [![Poster-Thumbnail][poster-thumbnail]][poster-zenodo]
 
